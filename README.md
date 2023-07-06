@@ -1,3 +1,3 @@
 # dtTestRepo
-testToken: dt0c01.XXXXXXXXXXXXXXXXXXXXXXXX.XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-testTenant: xy123.live.apps.dynatrace.com
+testToken: <token>
+testTenant: <tenant>
